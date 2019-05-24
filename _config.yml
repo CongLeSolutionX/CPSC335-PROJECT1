@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
 title: CPSC335-PROJECT1
-description: 
+description:  In this project we will set up an environment for implementing algorithms in C++, and use that to implement two algorithms that solve the same problem. The first step is to either create our own Tuffix Linux install, or arrange to use a Tuffix environment on campus. The second step is to translate descriptions of two algorithms into pseudocode; analyze our pseudocode mathematically; implement each algorithm in C++; test our implementation; and describe our results.
